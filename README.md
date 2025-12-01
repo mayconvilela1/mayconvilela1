@@ -4,7 +4,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo maycon vilela, tenho 22 anos e sou natural do minas gerais. Concluí o ensino médio no 2019, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniube. Sou fascinado por tecnologia, a qual me dedico dia após dia a resolver problemas e aprender sempre entregando meu melhor.
+Me chamo maycon vilela, tenho 22 anos e sou natural do minas gerais. Concluí o ensino médio no 2019, com o curso técnico em informática. Atualmente, estou cursando Engenharia de software. Sou fascinado por tecnologia, a qual me dedico dia após dia a resolver problemas e aprender sempre entregando meu melhor.
 
 
 ---
